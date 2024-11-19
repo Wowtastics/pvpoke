@@ -1607,7 +1607,7 @@
     "type": "steel",
     "power": 5,
     "energy": 0,
-    "energyGain": 7,
+    "energyGain": 8,
     "cooldown": 1000,
     "archetype": "General"
 }, {
@@ -2817,7 +2817,7 @@
     "moveId": "THUNDER_SHOCK",
     "name": "Thunder Shock",
     "type": "electric",
-    "power": 3,
+    "power": 4,
     "energy": 0,
     "energyGain": 9,
     "cooldown": 1000,
